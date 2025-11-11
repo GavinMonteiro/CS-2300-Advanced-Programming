@@ -1,4 +1,5 @@
 def remove_duplicates(arr):
+    # This is a comment
     arr.sort()
     unique_arr = []
     removed_elements = []
