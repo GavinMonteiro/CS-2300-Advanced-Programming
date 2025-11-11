@@ -2,6 +2,7 @@
 
 int main()
 {
+    // this is a comment
     int a = 0, b = 1;
     int sum_even = 0;
     while (b < 4000000) {
